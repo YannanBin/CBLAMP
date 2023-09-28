@@ -19,7 +19,7 @@ Antimicrobial peptides (AMPs) are essential components for immune defenses of mu
 | model.py            | model construction |
 | test.py             | test model result |
 | evaluation.py       | evaluation metrics (for evaluating prediction results) |
-| aaindex             | extract the aaindex feature file           |
+| aaindex.py          | extract the aaindex feature file           |
 | data                | data         |
 
 
@@ -42,14 +42,6 @@ Antimicrobial peptides (AMPs) are essential components for immune defenses of mu
   ```bash
   git clone https://github.com/YannanBin/CBLAMP.git
   ```
-
-- open the dir and install `requirement.txt` with `pip`
-
-  ```
-  cd CBLAMP
-  pip install -r requirement.txt
-  ```
-
 
 ## Contact
 Please feel free to contact us if you need any help.
