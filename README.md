@@ -23,13 +23,13 @@ Antimicrobial peptides (AMPs) are essential components for immune defenses of mu
 | data                | data         |
 
 
-##Features
+## Features
 
-###BERT Features
+### BERT Features
 
 If you need to extract BERT features, please refer to https://github.com/BioSequenceAnalysis/Bert-Protein.
 
-###AAindex Features
+### AAindex Features
 ```
 python aaindex.py
 ```
